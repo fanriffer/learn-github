@@ -1,1 +1,5 @@
 # learn-github
+
+Peaky Blinders is a British period crime drama television series created by Steven Knight. Set in Birmingham, it follows the exploits of the Peaky Blinders crime gang in the direct aftermath of the First World War. The fictional gang is loosely based on a real urban youth gang who were active in the city from the 1880s to the 1920s.
+
+It features an ensemble cast led by Cillian Murphy, starring as Tommy Shelby, Helen McCrory as Elizabeth "Polly" Gray, Paul Anderson as Arthur Shelby, Sophie Rundle as Ada Shelby, and Joe Cole as John Shelby, the gang's senior members. Sam Neill, Annabelle Wallis, Iddo Goldberg, Tom Hardy, Charlotte Riley, Finn Cole, Natasha O'Keeffe, Paddy Considine, Adrien Brody, Aidan Gillen, Anya Taylor-Joy, Sam Claflin, Amber Anderson, James Frecheville, and Stephen Graham also appeared in at least one episode of the series. The programme began on 12 September 2013, broadcast on BBC Two until the fourth series (with repeats on BBC Four), then moved to BBC One for the fifth and sixth series.
